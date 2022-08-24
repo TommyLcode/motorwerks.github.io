@@ -1,9 +1,10 @@
 body{
   background-color: lightgray;
   color: black;
-  margin: 5% 10%;
+  margin: 5% 20%;
   padding: 1%;
   font-family: monospace, Ariel, serif;
+  color: black;
 }
 .mobile{
   text-align: center;
@@ -13,4 +14,5 @@ body{
   text-align: center;
   border-top: 2px solid;
   border-bottom: 2px solid;
+  background-color: silver; 
 }
